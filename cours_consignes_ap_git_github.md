@@ -88,7 +88,7 @@ git commit -m "Ajoute le guide de démarrage"
 Créez un dépôt vide sur GitHub, puis remplacez l’URL ci-dessous par celle de votre dépôt : changer la branche principale en `main` avec `git branch -M main`, puis envoyez le dépôt avec : git push \-u origin main. En terminal :
 
 ```sh
-git remote add origin https://github.com/VOTRE-NOM/VOTRE-DEPOT.git
+git remote add origin https://github.com/Mouad-zeryouh/Python.git
 git branch -M main
 git push -u origin main
 ```
