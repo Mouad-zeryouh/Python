@@ -1,0 +1,7 @@
+Prenom = input("Entrez votre prénom : ")
+Nom = input ("Entrez votre nom : ")
+longueur = len(Prenom + Nom)
+egal= "="* (longueur + 22)
+print(egal)
+print("Bienvenue en SLAM,",Prenom, Nom, "!")
+print(egal)
