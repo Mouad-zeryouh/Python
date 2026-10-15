@@ -1,1 +1,1 @@
-print("Hello, World!")
+print("Hello, World!") #le code affiche hello world! 
